@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+.env
+
+# Mac system files (Crucial since you are on a Mac)
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/btp_env/
+btp_env/
